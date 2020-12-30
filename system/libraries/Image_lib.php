@@ -885,7 +885,7 @@ class CI_Image_lib {
 		$wm_width		= $props['width'];
 		$wm_height		= $props['height'];
 
-		//  Create two image resources
+		//  Create two image www
 		$wm_img  = $this->image_create_gd($this->wm_overlay_path, $wm_img_type);
 		$src_img = $this->image_create_gd($this->full_src_path);
 
