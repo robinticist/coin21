@@ -4,7 +4,7 @@
 class memo extends CI_Controller
 {
     public function index() {
-        return $this->load->view('memo/index');
+        return $this->load->view('index');
     }
 
     public function show($num) {
