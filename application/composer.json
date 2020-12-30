@@ -1,0 +1,10 @@
+{
+    "name": "coin21",
+    "type": "project",
+    "description": "The Codeigniter Framework.",
+    "license": "MIT",
+
+    "autoload": {
+        "files": ["mix.php"]
+    }
+}

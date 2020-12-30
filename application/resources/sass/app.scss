@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/application/public/fonts/vendor/material-design-icons-icondist/MaterialIcons-Regular.eot); /* For IE6-8 */
+  src: local('Material Icons'),
+  local('MaterialIcons-Regular'),
+  url(/application/public/fonts/vendor/material-design-icons-icondist/MaterialIcons-Regular.woff2) format('woff2'),
+  url(/application/public/fonts/vendor/material-design-icons-icondist/MaterialIcons-Regular.woff) format('woff'),
+  url(/application/public/fonts/vendor/material-design-icons-icondist/MaterialIcons-Regular.ttf) format('truetype');
+}

@@ -84,5 +84,8 @@
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
 </div>
 
+<div id="app"></div>
+<script src="/application/public/js/app.js"></script>
+
 </body>
 </html>
