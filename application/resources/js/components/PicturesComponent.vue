@@ -30,7 +30,7 @@ export default {
             y: 0,
         },
         cards: [
-            { title: '6.23일 작품', src: '/application/public/images/flowers.png', flex: 'col-sm-12 col-md-6' },
+            { title: '6.23일 작품', src: '/application/public/images/main.png', flex: 'col-sm-12 col-md-6' },
             { title: '화관', src: '/application/public/images/flowers.png', flex: 'col-sm-12 col-md-6' },
             { title: '작품2', src: '/application/public/images/sketch_2.png', flex: 'col-sm-12 col-md-6' },
             { title: '작품1', src: '/application/public/images/sketch_1.png', flex: 'col-sm-12 col-md-6' },

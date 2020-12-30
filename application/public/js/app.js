@@ -2354,7 +2354,7 @@ __webpack_require__.r(__webpack_exports__);
       },
       cards: [{
         title: '6.23일 작품',
-        src: '/application/public/images/flowers.png',
+        src: '/application/public/images/main.png',
         flex: 'col-sm-12 col-md-6'
       }, {
         title: '화관',
